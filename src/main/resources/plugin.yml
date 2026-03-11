@@ -1,0 +1,11 @@
+
+name: AqualennGuardian
+version: 3.0
+main: me.aqualenn.guardian.AqualennGuardian
+api-version: 1.21
+
+commands:
+  sculkdash:
+  guardianrage:
+  sonicboom:
+  horns:
